@@ -1,0 +1,6 @@
+{
+  "name": "Kontio Kruiser 3D Scooter Assembly",
+  "description": "Interactive 3D assembly manual and modular parts builder for the Kontio Motors Kruiser fat-tire electric scooter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
